@@ -3,9 +3,12 @@ Interface for controlling ICOM AH-4 auto antenna tuner from KENWOOD [TS-590](htt
 
 Schematic.
 
-    Version 1: ![ah4_if_for_ts590.PNG](ah4_if_for_ts590.PNG)
-    Version 2: ![ah4_if_for_ts590_2.PNG](ah4_if_for_ts590_2.PNG)
-    Version 3: ![ah4_if_for_ts590_3.PNG](ah4_if_for_ts590_3.PNG)
+    Version 1: 
+   [ah4_if_for_ts590.PNG](ah4_if_for_ts590.PNG)
+    Version 2: 
+   [ah4_if_for_ts590_2.PNG](ah4_if_for_ts590_2.PNG)
+    Version 3: 
+   [ah4_if_for_ts590_3.PNG](ah4_if_for_ts590_3.PNG)
 
 C source code for Peripheral Interface Controller PIC12F629 in Version 3.
 
